@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: BaKong's Coding Blog
+description: 멋쟁이 사자처럼 8기 박홍준 코딩 블로그
+author: Park
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: qkrghd147@likelion.org
 
 plugins:
   - jekyll-seo-tag
@@ -30,14 +30,12 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
+  username: 
+  card: 
+logo: 
 social:
-  name: Shangzhi Huang
+  name: ParkHongJun
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/qkrghd147
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
